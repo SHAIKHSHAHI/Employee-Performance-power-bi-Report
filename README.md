@@ -88,3 +88,31 @@ SELECTCOLUMNS(
 - Top employees and trainers card visuals with photos
 
 - Attrition and performance drill-down reports
+
+ #  Key Insights
+
+- Top 10 employees were identified with high ratings, engagement, and work-life balance scores.
+
+- Top 10 trainers were recognized based on tenure, cost efficiency, and training duration.
+
+- Attrition rate analysis showed higher turnover in specific departments and categories.
+
+- Work-life balance and satisfaction scores were directly correlated with lower attrition rates.
+
+- Training costs and duration significantly impacted employee engagement and performance outcomes.
+
+
+# 🚀 Tools & Technologies
+
+Power BI – Data visualization & dashboard creation
+
+DAX – Advanced calculations and KPIs
+
+Data Cleaning – Handling messy HR dataset
+
+Interactive Dashboards – Drill-throughs, slicers, and filters
+
+
+# 📈 Outcome
+
+The final dashboard provides HR managers with a comprehensive employee performance & training monitoring system. It enables data-driven decisions for reducing attrition, optimizing training programs, and improving workforce engagement.
