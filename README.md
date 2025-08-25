@@ -31,8 +31,6 @@ The dataset used was Messy HR Data, which required data cleaning, transformation
 - Provide HR managers with interactive filters (by year, department, business unit, etc.) for deep insights.
 
 
-
-
 # 🛠️ Approach & Methods
 
 Data Cleaning & Transformation: Removed inconsistencies and standardized HR data.
