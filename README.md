@@ -3,17 +3,20 @@
 ![Dash2](Employee%20power%20bi%202.png)
 ![Dash3](Employee%20powerbi%203.png)
 ![Dash4](Employee%20powerbi%204.png)
-🚀 Interactive Power BI Dashboard using DAX Designed a raw layout and implemented advanced DAX measures to create dynamic visuals. Used calculated columns, measures, and filters to analyze key performance metrics. Built slicer-based navigation and applied conditional formatting for better insights.
+
+
+🚀 Interactive Power BI Dashboard using DAX Designed a raw layout and implemented advanced DAX measures to create dynamic visuals. 
+Used calculated columns, measures, and filters to analyze key performance metrics. Built slicer-based navigation and applied conditional formatting for better insights.
 Employee Training & Performance Analysis Dashboard
 
-📌 Project Overview
+#  📌 Project Overview
 
 This project focuses on analyzing employee training, performance, and attrition data using Power BI. The goal was to build an interactive dashboard that enables HR teams and managers to monitor employee performance, track training effectiveness, and identify top-performing employees and trainers.
 The dataset used was Messy HR Data, which required data cleaning, transformations, and DAX calculations to create meaningful insights. Key measures such as average training cost, employee satisfaction score, engagement score, attrition rate, and training outcomes were calculated to provide a holistic view of workforce performance.
 
 
 
-🎯 Objectives
+# 🎯 Objectives
 
 - Identify top-performing employees based on rating, engagement, work-life balance, and active employment status.
 
