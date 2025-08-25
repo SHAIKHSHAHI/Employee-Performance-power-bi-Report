@@ -38,7 +38,7 @@ Data Cleaning & Transformation: Removed inconsistencies and standardized HR data
 # DAX Calculations:
 
 # Top Employees:
-```Dax
+```python
 top1 = 
 SELECTCOLUMNS(
     TOPN(10, 
@@ -56,7 +56,7 @@ SELECTCOLUMNS(
 )
 ```
 # Top Trainers:
-```Dax
+```python
 TopTrainers =
 SELECTCOLUMNS(
     TOPN(10,
