@@ -32,7 +32,6 @@ The dataset used was Messy HR Data, which required data cleaning, transformation
 
 
 
----
 
 # 🛠️ Approach & Methods
 
@@ -80,14 +79,14 @@ SELECTCOLUMNS(
 )
 ```
 
-Visualizations Created:
+## Visualizations Created:
 
-Training programs vs. outcomes
+- Training programs vs. outcomes
 
-Employee attrition trends (monthly, by department & termination type)
+- Employee attrition trends (monthly, by department & termination type)
 
-Employee satisfaction vs. training duration
+- Employee satisfaction vs. training duration
 
-Top employees and trainers card visuals with photos
+- Top employees and trainers card visuals with photos
 
-Attrition and performance drill-down reports
+- Attrition and performance drill-down reports
