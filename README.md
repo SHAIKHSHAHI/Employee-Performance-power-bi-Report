@@ -11,7 +11,7 @@ Employee Training & Performance Analysis Dashboard
 
 #  📌 Project Overview
 
-This project focuses on analyzing employee training, performance, and attrition data using Power BI. The goal was to build an interactive dashboard that enables HR teams and managers to monitor employee performance, track training effectiveness, and identify top-performing employees and trainers.
+This project focuses on analysing employee training, performance, and attrition data using Power BI. The goal was to build an interactive dashboard that enables HR teams and managers to monitor employee performance, track training effectiveness, and identify top-performing employees and trainers.
 The dataset used was Messy HR Data, which required data cleaning, transformations, and DAX calculations to create meaningful insights. Key measures such as average training cost, employee satisfaction score, engagement score, attrition rate, and training outcomes were calculated to provide a holistic view of workforce performance.
 
 
