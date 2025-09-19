@@ -116,3 +116,10 @@ Interactive Dashboards – Drill-throughs, slicers, and filters
 # 📈 Outcome
 
 The final dashboard provides HR managers with a comprehensive employee performance & training monitoring system. It enables data-driven decisions for reducing attrition, optimizing training programs, and improving workforce engagement.
+
+# PowerBI  Employee-Performance- Dashboard
+
+
+
+🔗 [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGM1OTQ0Y2MtYjM3Ni00OWNjLWEyNjEtNjA1NzA2Y2E3NzViIiwidCI6ImQwNDAwNzU2LTk1ZWYtNGI5My1hNTZhLTRhMDU1Y2Y0N2Y2NSJ9)
+
